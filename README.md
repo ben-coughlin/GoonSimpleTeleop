@@ -1,3 +1,6 @@
+## 10.1 goon teleop
+super simple, basic functionality, for booville/similar
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
